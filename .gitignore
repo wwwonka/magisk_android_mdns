@@ -1,0 +1,10 @@
+# macOS system
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+ehthumbs.db
+Thumbs.db
+.Spotlight-V100
+.Trashes
+.fseventsd
