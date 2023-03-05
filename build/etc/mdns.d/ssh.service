@@ -1,3 +1,5 @@
-# mDNS-SD advertisement of SSH service
+# /etc/mdns.d/ssh.service -- mDNS-SD 
+advertisement of SSH service
+name Android SSH Server
 type _ssh._tcp
 port 22
