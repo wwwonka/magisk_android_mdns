@@ -6,5 +6,5 @@
 # if Magisk change its mount point in the future
 MODDIR=${0%/*}
 #MODDIR=/data/adb/modules/magisk_mdnsd
-sh $MODDIR/start_cp.sh &
+sh $MODDIR/start.sh &
 exit $?;
